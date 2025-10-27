@@ -1,15 +1,5 @@
 # Day 2: Components & Props Deep Dive
 
-## 📋 Table of Contents
-- [Introduction](#introduction)
-- [Functional Components Deep Dive](#functional-components-deep-dive)
-- [Props Passing and Destructuring](#props-passing-and-destructuring)
-- [Props Validation with PropTypes](#props-validation-with-proptypes)
-- [Practice Exercise](#practice-exercise)
-- [Key Takeaways](#key-takeaways)
-
----
-
 ## Introduction
 
 Welcome back! Today we're diving deeper into the building blocks of React: **components** and **props**. By the end of this day, you'll master:

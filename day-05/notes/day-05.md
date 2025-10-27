@@ -1,16 +1,5 @@
 # Day 5: Event Handling
 
-## 📋 Table of Contents
-- [Introduction](#introduction)
-- [Understanding Events in React](#understanding-events-in-react)
-- [onClick, onChange, onSubmit Events](#onclick-onchange-onsubmit-events)
-- [Event Object and preventDefault](#event-object-and-preventdefault)
-- [Passing Arguments to Handlers](#passing-arguments-to-handlers)
-- [Practice Exercise](#practice-exercise)
-- [Key Takeaways](#key-takeaways)
-
----
-
 ## Introduction
 
 Welcome to Day 5! Today you'll learn how to handle user interactions in React. By the end of today, you'll:

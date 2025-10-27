@@ -1,16 +1,5 @@
 # Day 3: Rendering Lists & Keys
 
-## 📋 Table of Contents
-- [Introduction](#introduction)
-- [Array.map() for Rendering Lists](#arraymap-for-rendering-lists)
-- [Key Prop Importance](#key-prop-importance)
-- [Conditional Rendering Techniques](#conditional-rendering-techniques)
-- [Practice Exercise](#practice-exercise)
-- [Advanced Patterns](#advanced-patterns)
-- [Key Takeaways](#key-takeaways)
-
----
-
 ## Introduction
 
 Welcome to Day 3! Today you'll master one of the most common patterns in React: **rendering lists of data**. By the end of today, you'll:

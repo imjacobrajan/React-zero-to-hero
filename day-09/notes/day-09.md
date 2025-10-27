@@ -1,22 +1,5 @@
 # Day 9: useEffect Hook - Part 2 (Cleanup & Dependencies)
 
-## 📋 Table of Contents
-- [Introduction](#introduction)
-- [Cleanup Functions Deep Dive](#cleanup-functions-deep-dive)
-- [Preventing Memory Leaks](#preventing-memory-leaks)
-- [Advanced Cleanup Patterns](#advanced-cleanup-patterns)
-- [useEffect Timing & Execution](#useeffect-timing--execution)
-- [Multiple useEffect Hooks](#multiple-useeffect-hooks)
-- [Conditional Effects](#conditional-effects)
-- [Canceling Requests](#canceling-requests)
-- [Real-World Examples](#real-world-examples)
-- [Best Practices](#best-practices)
-- [Common Pitfalls](#common-pitfalls)
-- [Resources & Further Reading](#resources--further-reading)
-- [Key Takeaways](#key-takeaways)
-
----
-
 ## Introduction
 
 Welcome to Day 9! Today you'll master **advanced useEffect** patterns including cleanup functions, preventing memory leaks, and handling complex side effects. By the end of today, you'll:

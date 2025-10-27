@@ -1,18 +1,5 @@
 # Day 4: State with useState
 
-## 📋 Table of Contents
-- [Introduction](#introduction)
-- [What is State?](#what-is-state)
-- [Understanding useState Hook](#understanding-usestate-hook)
-- [Setting Initial State](#setting-initial-state)
-- [Updating State](#updating-state)
-- [State Patterns & Best Practices](#state-patterns--best-practices)
-- [Practice Exercise](#practice-exercise)
-- [Common Pitfalls](#common-pitfalls)
-- [Key Takeaways](#key-takeaways)
-
----
-
 ## Introduction
 
 Welcome to Day 4! Today you'll learn about **state** - the data that components maintain and change over time. By the end of today, you'll:

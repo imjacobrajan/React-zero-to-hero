@@ -1,19 +1,5 @@
 # Day 8: useEffect Hook - Part 1
 
-## 📋 Table of Contents
-- [Introduction](#introduction)
-- [Understanding useEffect](#understanding-useeffect)
-- [useEffect Syntax](#useeffect-syntax)
-- [Component Lifecycle](#component-lifecycle)
-- [Empty Dependency Array](#empty-dependency-array)
-- [Dependency Array Basics](#dependency-array-basics)
-- [Common useEffect Patterns](#common-useeffect-patterns)
-- [Fetching Data on Mount](#fetching-data-on-mount)
-- [Practice Exercise](#practice-exercise)
-- [Key Takeaways](#key-takeaways)
-
----
-
 ## Introduction
 
 Welcome to Day 8! Today you'll learn **useEffect** - React's most important hook for side effects. By the end of today, you'll:

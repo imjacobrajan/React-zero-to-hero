@@ -1,25 +1,5 @@
 # Day 6: Forms & Controlled Components
 
-## 📋 Table of Contents
-- [Introduction](#introduction)
-- [Understanding Controlled Components](#understanding-controlled-components)
-- [Understanding Uncontrolled Components](#understanding-uncontrolled-components)
-- [Differences: Controlled vs Uncontrolled](#differences-controlled-vs-uncontrolled)
-- [Form Elements in React](#form-elements-in-react)
-- [Form Submission Handling](#form-submission-handling)
-- [Input Validation Basics](#input-validation-basics)
-- [Advanced Form Patterns](#advanced-form-patterns)
-- [Multiplying Input Fields](#multiplying-input-fields)
-- [Password Validation](#password-validation)
-- [Email Validation](#email-validation)
-- [Phone Number Validation](#phone-number-validation)
-- [Form Patterns and Best Practices](#form-patterns-and-best-practices)
-- [Common Form Pitfalls](#common-form-pitfalls)
-- [Practice Exercise](#practice-exercise)
-- [Key Takeaways](#key-takeaways)
-
----
-
 ## Introduction
 
 Welcome to Day 6! Today you'll master forms in React - one of the most essential aspects of web development. By the end of today, you'll:

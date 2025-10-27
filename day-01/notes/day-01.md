@@ -1,27 +1,5 @@
 # Day 1: Environment Setup & React Basics - From Zero to Production-Ready
 
-## 📋 Table of Contents
-- [Introduction](#introduction)
-- [React: The Big Picture](#react-the-big-picture)
-- [React Ecosystem & History](#react-ecosystem--history)
-- [Official Documentation References](#official-documentation-references)
-- [Prerequisites: Complete Setup](#prerequisites-complete-setup)
-- [Installation Guide: Step-by-Step](#installation-guide-step-by-step)
-- [Understanding JSX: Beginner to Advanced](#understanding-jsx-beginner-to-advanced)
-- [Component Architecture Deep Dive](#component-architecture-deep-dive)
-- [Props: Introduction Only](#props-introduction-only)
-- [Real-World Patterns](#real-world-patterns)
-- [Debugging & DevTools](#debugging--devtools)
-- [Performance Considerations](#performance-considerations)
-- [Security Best Practices](#security-best-practices)
-- [Production Checklist](#production-checklist)
-- [Practice Exercises](#practice-exercises)
-- [Interview Questions](#interview-questions)
-- [Resources & Further Reading](#resources--further-reading)
-- [Key Takeaways](#key-takeaways)
-
----
-
 ## Introduction
 
 Welcome to your comprehensive React learning journey! This guide covers everything from absolute basics to production-ready React development, drawing from official React documentation, industry best practices, and real-world experience.

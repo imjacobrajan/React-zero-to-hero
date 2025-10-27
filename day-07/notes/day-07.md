@@ -1,25 +1,5 @@
 # Day 7: Conditional Rendering Patterns - Advanced
 
-## 📋 Table of Contents
-- [Introduction](#introduction)
-- [Ternary Operators - Deep Dive](#ternary-operators---deep-dive)
-- [Logical && Operator - Advanced](#logical--operator---advanced)
-- [Switch Statements in JSX](#switch-statements-in-jsx)
-- [Early Returns and Guards](#early-returns-and-guards)
-- [Multiple Conditions](#multiple-conditions)
-- [Conditional Styling](#conditional-styling)
-- [Conditional Class Names](#conditional-class-names)
-- [Conditional Component Rendering](#conditional-component-rendering)
-- [Loading States](#loading-states)
-- [Error States](#error-states)
-- [Empty States](#empty-states)
-- [Auth-Based Rendering](#auth-based-rendering)
-- [Role-Based Rendering](#role-based-rendering)
-- [Practice Exercise](#practice-exercise)
-- [Key Takeaways](#key-takeaways)
-
----
-
 ## Introduction
 
 Welcome to Day 7! Today you'll master **conditional rendering** - one of the most powerful patterns in React. By the end of today, you'll:
